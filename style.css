@@ -741,8 +741,8 @@ footer p{
         padding-bottom: 10px;
     }
 
-    .behance{
-        width: 100%;
+    .links, .behance{
+        width: 40%;
     }
 
     .links{
