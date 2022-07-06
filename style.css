@@ -742,11 +742,18 @@ footer p{
     }
 
     .links, .behance{
-        width: 70% !important;
+        width: 100% !important;
         text-align: center;
+        align-items: center;
+        justify-content: space-evenly;
+       
     }
 
-
+    .behance_new{
+        width: 130%;
+    }
+   
+    
 
     .links{
         display: flex;
