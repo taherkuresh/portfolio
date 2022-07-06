@@ -743,6 +743,7 @@ footer p{
 
     .links, .behance{
         width: 70% !important;
+        text-align: center;
     }
 
     .links{
