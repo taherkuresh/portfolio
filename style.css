@@ -747,7 +747,7 @@ footer p{
     }
 
     #beh{
-        width: 80%;
+        width: 80% !important;
     }
 
     .links{
