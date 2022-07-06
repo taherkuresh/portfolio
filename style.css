@@ -746,6 +746,10 @@ footer p{
         text-align: center;
     }
 
+    #beh{
+        width: 80%;
+    }
+
     .links{
         display: flex;
         margin: 0px auto;
